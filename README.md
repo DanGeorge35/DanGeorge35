@@ -15,7 +15,6 @@ With a passion for **innovative solutions**, **developing robust APIs**, and **d
 | **Database** | MySQL, PostgreSQL, MongoDB |
 | **Mobile**   | React Native |
 
----
 
 ---
 
