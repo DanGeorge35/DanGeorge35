@@ -6,31 +6,16 @@ I am a **Skilled Software Engineer** with a specialization in **Fullstack Engine
 With a passion for **innovative solutions**, **developing robust APIs**, and **designing efficient database architectures**, I bring a diverse skill set to every project. My approach combines fresh inspiration, thought-provoking ideas, and an unwavering attention to detail. I consistently strive for excellence, pushing the boundaries of what's possible.
 
 ---
-
 ## 🚀 Tech Stack
 
-### Backend
-- **Node.js**
-- **TypeScript**
-- **NestJS**
-- **C# .NET Core**
-- **PHP**
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Backend**  | Node.js, TypeScript, NestJS, C# .NET Core, PHP |
+| **Frontend** | HTML5, CSS, JavaScript, jQuery, React.js, Next.js |
+| **Database** | MySQL, PostgreSQL, MongoDB |
+| **Mobile**   | React Native |
 
-### Frontend
-- **HTML5**
-- **CSS**
-- **JavaScript**
-- **jQuery**
-- **React.js**
-- **Next.js**
-
-### Database
-- **MySQL**
-- **PostgreSQL**
-- **MongoDB**
-
-### Mobile
-- **React Native**
+---
 
 ---
 
