@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am a **skilled Software Engineer** with a specialization in **Fullstack Engineering**. My expertise spans both Backend and Frontend development, with a strong preference and proficiency in **Backend Engineering**. I am known for my ability to craft seamless and efficient user experiences on the front end.
+I am a skilled **Software Engineer** with expertise in Fullstack (Backend and Frontend) Engineering. Having my preferred area of career stands strongly in Backend Engineering. 
 
 With a passion for **innovative solutions**, **developing robust APIs**, and **designing efficient database architectures**, I bring a diverse skill set to every project. My approach combines fresh inspiration, thought-provoking ideas, and an unwavering attention to detail. I consistently strive for excellence, pushing the boundaries of what's possible.
 
