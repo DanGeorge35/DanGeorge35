@@ -11,6 +11,7 @@ I am a skilled **Software Engineer** who is passionate about **innovative soluti
 | **Backend**  | Node.js, TypeScript, NestJS, C# .NET Core, PHP |
 | **Frontend** | HTML5, CSS, JavaScript, jQuery, React.js, Next.js |
 | **Database** | MySQL, PostgreSQL, MongoDB |
+| **Blockchain** | Web3.js, Solidity |
 | **Mobile**   | React Native |
 
 
