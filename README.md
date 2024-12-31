@@ -26,9 +26,13 @@ Feel free to explore my repositories and contact me on [LinkedIn](https://www.li
 Thank you for visiting my GitHub profile. Let's create something amazing together!
 
 ---
+## Some of my previous works
+
+https://www.loom.com/share/3640b1d82e0e47a997f0ab82b21fdaa6?sid=a5c4fec2-53cd-44b3-8579-f886a7cfc967
 
 https://www.loom.com/share/6daef7e830024ad293346bb3397c851d?sid=65e4f334-d9e8-4cd0-bb65-32458c85d9f1
 
+https://www.loom.com/share/76f72ac832484f6c973b8dde1d721f2a?sid=5004d95e-2e29-4966-b0dc-f7f5a95cc7d2
 
 <!--
 **DanGeorge35/DanGeorge35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
