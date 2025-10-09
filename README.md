@@ -1,7 +1,29 @@
 ## Hi there 👋
 
 
-I am a skilled **Software Engineer** who is passionate about **innovative solutions**, **developing robust APIs**, and **designing efficient database architectures**, I bring a diverse skill set to every project. My approach combines fresh inspiration, thought-provoking ideas, and an unwavering attention to details. I consistently strive for excellence, pushing the boundaries of what's possible.
+I’m a Senior Software Engineer with over 7 years of experience building and deploying robust web applications across both frontend and backend stacks. On the backend, I specialize in Node.js, TypeScript, and event-driven architectures designed for scalability and reliability in the cloud. On the frontend, I have deep expertise in React, Next.js, and WordPress, including Advanced Custom Fields Pro (ACF Pro) for creating dynamic, content-driven websites. My skill set spans HTML5, CSS3/SASS, JavaScript, PHP, MySQL, and modern UI frameworks, enabling me to deliver seamless, high-performance user experiences.
+
+I’ve designed and implemented RESTful APIs, built microservices, optimized databases, and deployed serverless solutions on AWS and Kubernetes. I also have strong experience in SEO optimization, performance tuning, security hardening, and Git-based CI/CD automation. Beyond code, I enjoy mentoring developers, refining workflows, and leading teams to deliver solutions that are not only technically sound but also genuinely impactful for users and businesses.
+
+---
+
+You can explore some of my completed React.js projects here:
+
+ | https://brandingbysquad.com/
+ | https://wealthsystem.net/
+ | https://cadencepub.com/
+ | https://icomaa.ca/
+ | https://quizlead.netlify.app/
+ 
+---
+
+You can explore some of my completed WordPress projects here:
+https://ilitconsultant.com/
+ | http://anpasocal.org/
+ | https://squadinventive.com/
+ | https://icomaa.org/
+ | https://assistbysquad.com/
+ | https://myanpa.com/
 
 ---
 ## 🚀 Tech Stack
