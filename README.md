@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I’m a Senior Software Engineer with over 7 years of experience building and deploying robust web applications across both frontend and backend stacks. On the backend, I specialize in Node.js, TypeScript, and event-driven architectures designed for scalability and reliability in the cloud. On the frontend, I have deep expertise in React, Next.js, and WordPress, including Advanced Custom Fields Pro (ACF Pro) for creating dynamic, content-driven websites. My skill set spans HTML5, CSS3/SASS, JavaScript, PHP, MySQL, and modern UI frameworks, enabling me to deliver seamless, high-performance user experiences.
+I’m a Senior Software Engineer with over 7 years of experience building and deploying robust web applications across both frontend and backend stacks. On the backend, I specialize in Node.js, TypeScript, and event-driven architectures designed for scalability and reliability in the cloud. On the frontend, I have deep expertise in React, Next.js, and WordPress, including Advanced Custom Fields Pro (ACF Pro) for creating dynamic, content-driven websites. My skill set spans HTML5, CSS3/SASS, JavaScript, PHP, Node, C#, .NET, MySQL, PostgreSQL, MongoDB and modern UI frameworks, enabling me to deliver seamless, high-performance user experiences.
 
 I’ve designed and implemented RESTful APIs, built microservices, optimized databases, and deployed serverless solutions on AWS and Kubernetes. I also have strong experience in SEO optimization, performance tuning, security hardening, and Git-based CI/CD automation. Beyond code, I enjoy mentoring developers, refining workflows, and leading teams to deliver solutions that are not only technically sound but also genuinely impactful for users and businesses.
 
@@ -31,7 +31,7 @@ https://ilitconsultant.com/
 | **Category** | **Technologies** |
 |--------------|------------------|
 | **Backend**  | Node.js, TypeScript, NestJS, C# .NET Core, PHP |
-| **Frontend** | HTML5, CSS, JavaScript, jQuery, React.js, Next.js |
+| **Frontend** | HTML5, CSS, JavaScript, jQuery, React.js, Next.js, WordPress|
 | **Database** | MySQL, PostgreSQL, MongoDB |
 | **Blockchain** | Web3.js, Solidity |
 | **Mobile**   | React Native |
