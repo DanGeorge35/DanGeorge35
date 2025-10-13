@@ -22,7 +22,6 @@ https://ilitconsultant.com/
  | http://anpasocal.org/
  | https://squadinventive.com/
  | https://icomaa.org/
- | https://assistbysquad.com/
  | https://myanpa.com/
 
 ---
