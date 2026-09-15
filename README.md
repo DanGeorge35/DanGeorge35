@@ -26,13 +26,13 @@ I've led multiple modernisation efforts and multiple integration efforts
 My stack is C# .NET .NET Core, Node.js and TypeScript on the back end, particularly NestJS and Express. I’ve also worked with Python, with a sound knowledge of AI Engineering. I have solid experience with PostgreSQL, MySQL, MongoDB, Redis, AWS, Docker, and distributed-system patterns.
 I'm also big on testing, and I have experience with enterprise unit-scale testing,  integration tests on the back end using xUnit and NUnit and on the front end using Jest and Cypress.
 
-I also do Static Application Security Testing -  running all of that in the cloud using SonarCloud or Checkmarx to check for code smells and vulnerabilities.
+I also have experience setting up and  configuring Static Application Security Testing,  making it run in the cloud or cicd pipelines using SonarCloud or Checkmarx to check for code smells and vulnerabilities.
 
-Aside from that, another thing that's really important when I'm building is monitoring and observability. In which I used tools like CloudWatch, Datadog,  Grafana & Prometheus
-And in many of the projects I’ve implemented, I've worked on ensuring secure API design, idempotency, eventual consistency using outbox, background processing, monitoring, and careful failure recovery.
+Aside from that, another thing that's really important when I build is monitoring and observability. In which, I used tools like CloudWatch, Datadog,  Grafana & Prometheus
+And in many of the projects I’ve implemented, I've worked on ensuring secure API design, idempotency, eventual consistency using the outbox pattern, background processing, monitoring, and careful failure recovery.
 
 When it comes to the architecture itself, I've designed different kinds of architecture, from monolith to microservice to independent services and service-oriented architecture,
-And when it comes to event-driven systems, which is a key component of designing a microservice-based architecture. I've used different message brokers, from Service Bus to Kafka to SNS and SQS. 
+And when it comes to event-driven systems, which are a key component of designing a microservice-based architecture. I've used different message brokers, from Service Bus to Kafka to SNS and SQS. 
 Beyond implementation, I’m comfortable making architectural decisions, reviewing code, supporting other engineers, and translating business requirements into reliable technical solutions. 
 
 
