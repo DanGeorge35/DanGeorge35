@@ -19,7 +19,7 @@
 
 ##  About Me
 
-Solutions Architect and Senior Software Engineer with **8+ years of experience** designing
+Solutions Architect and Senior Software Engineer with **8+ years of experience** 
 
 I’m Dan George, a senior software engineer with over 8 years of experience building backend systems, APIs, payment platforms, data pipelines, and cloud-based applications.
 I've led multiple modernisation efforts and multiple integration efforts
