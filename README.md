@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Dan%20George&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%7C%20Full-Stack%20%7C%20Cloud&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Dan%20George&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Solutions%20Architect%20%7C%20Senior%20Software%20Engineer%20%7C%20Cloud%20%26%20Distributed%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=8%2B+Years+Building+Production+Systems;Python+%7C+TypeScript+%7C+JavaScript+%7C+C%23;Backend+%E2%80%A2+Full-Stack+%E2%80%A2+Distributed+Systems;Founder+%40+DGICT+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=8%2B+Years+Building+Production+Systems;Python+%7C+TypeScript+%7C+JavaScript+%7C+C%23;Solutions+Architecture+%E2%80%A2+Microservices+%E2%80%A2+AWS;Founder+%40+DGICT+Technologies)](https://git.io/typing-svg)
 
 <a href="mailto:dangeorge35@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/dan-george-504108149/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,9 +17,9 @@
 
 ## 👨‍💻 About Me
 
-Senior Software Engineer with **8+ years of experience** writing, debugging, and reviewing production code across backend, frontend, and distributed systems. Strong grounding in algorithms, data structures, and software engineering fundamentals (**OOP, SOLID, ACID**), with a consistent track record of resolving complex defects, optimising performance-critical systems, and refactoring legacy codebases for clarity and long-term reliability.
+Solutions Architect and Senior Software Engineer with **8+ years of experience** designing, building, and scaling production systems across backend, frontend, and distributed architectures. Strong grounding in algorithms, data structures, and software engineering fundamentals (**OOP, SOLID, ACID**), with a consistent track record of architecting cloud-native systems, resolving complex defects, and refactoring legacy codebases for clarity and long-term reliability.
 
-I've reviewed peer code, mentored engineers, and documented technical reasoning for both technical and cross-functional audiences. I'm comfortable working across varied codebases and technology stacks, with genuine curiosity about AI systems and the technical challenges of training high-quality models.
+I design distributed systems and microservices for high availability, build and integrate RESTful APIs (including payment gateways and enterprise systems), and lead technical solution design end to end — from architecture and integration strategy to CI/CD, monitoring, and production troubleshooting. I've reviewed peer code, mentored engineers, and documented technical reasoning for both technical and cross-functional audiences, with genuine curiosity about AI systems and the technical challenges of training high-quality models.
 
 I'm also the founder of **DGICT Technologies**, a tech agency in Abuja, Nigeria delivering web, mobile, blockchain/Web3, and UI/UX solutions.
 
@@ -88,63 +88,72 @@ I'm also the founder of **DGICT Technologies**, a tech agency in Abuja, Nigeria 
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>🟦 Senior Backend Engineer — iRecharge Technologies Innovations</b> &nbsp; <i>June 2024 – Present</i></summary>
+<summary><b>🟦 Solutions Architect — Squad Inventive Integrated, LLC</b> &nbsp; <i>June 2026 – Present · Remote</i></summary>
 <br/>
 
-*Platforms: Accelerate, iRecharge Mobile-V*
-
-- Diagnosed and resolved complex concurrency defects in serverless AWS Lambda functions, eliminating race conditions in high-throughput event-driven workflows
-- Refactored core backend services for maintainability and performance, applying SOLID principles across microservices managed on Kubernetes (EKS)
-- Built and documented RESTful APIs in NestJS and ASP.NET Core, including auth/authorisation design rationale for onboarding and audits
-- Optimised MongoDB and MySQL query and aggregation performance for analytics and reporting workloads
-- Reviewed peer pull requests as part of a Git-based CI/CD workflow (GitHub Actions, NGINX, Linux)
+- Architecting distributed systems, microservices, and cloud-native applications for high availability and reliability
+- Leading technical solution design — system architecture, integration strategy, and development standards
+- Building and maintaining RESTful APIs and integrations, including payment gateways and enterprise systems
+- Leveraging AWS services to deploy, monitor, and scale applications efficiently
+- Implementing containerized solutions with Docker to improve deployment consistency
+- Designing database architectures, optimising performance and data integrity across environments
+- Conducting code reviews, mentoring engineers, and driving CI/CD, monitoring, and automated testing practices
+- Troubleshooting complex production issues and leading continuous improvement across systems
 </details>
 
 <details>
-<summary><b>🟩 Full-Stack Engineer — Remoteweb Net Dynamics</b> &nbsp; <i>December 2022 – May 2024</i></summary>
+<summary><b>🟩 Senior Software Engineer — iRecharge Tech Innovations</b> &nbsp; <i>June 2024 – July 2026 · Abuja, Nigeria (Hybrid)</i></summary>
 <br/>
 
-*Product: Link*
-
-- Debugged and resolved defects across React.js components and REST/GraphQL integrations, using Cypress and Playwright to build regression coverage
-- Refactored legacy UI components into reusable, well-documented patterns, reducing duplication across the codebase
-- Reviewed and validated code submissions from junior developers to raise code quality and team consistency
-- Delivered features from requirements through production release within Agile sprints, tracked via Jira
+- Built and deployed serverless applications using AWS Lambda, reducing operational overhead and improving scalability
+- Designed event-driven systems integrating AWS Lambda with SQS and SNS
+- Developed scalable backend services and RESTful APIs using Node.js, TypeScript, and NestJS, following modular architecture and security best practices
+- Created secure APIs using C# and ASP.NET Web API with robust authentication/authorisation
+- Designed and optimised database schemas for MongoDB, PostgreSQL, and MySQL; implemented complex queries and aggregations for analytics and reporting
+- Designed microservices architecture for scalability, fault tolerance, and maintainability
+- Implemented Redis caching for performance optimisation
+- Built automated testing and CI/CD pipelines using Cypress, Qodana, and GitHub Actions
 </details>
 
 <details>
-<summary><b>🟨 Backend Engineer — Hobeei</b> &nbsp; <i>June 2021 – November 2022 · Remote</i></summary>
+<summary><b>🟨 Senior Fullstack Developer — RemotewebNET Dynamics</b> &nbsp; <i>November 2022 – June 2024 · Abuja, Nigeria (Hybrid)</i></summary>
 <br/>
 
-- Implemented and debugged Node.js/TypeScript APIs secured with JWT, tracing issues through asynchronous request flows
-- Designed MongoDB data models and wrote aggregation queries for data analysis
-- Built and maintained CI/CD deployment workflows with GitHub Actions
+- Developed APIs using Node.js, TypeScript, Express.js, and JWT
+- Converted UI/UX prototypes into React.js components and views
+- Implemented and managed MySQL database architecture using MySQL Workbench and pgAdmin
+- Managed deployments on VPS infrastructure with Linux and NGINX
+- Integrated third-party plugins and APIs; used GitHub for version control and CI/CD
+- Tracked projects and issues in Jira; connected databases to Power BI for reporting and analysis
 </details>
 
 <details>
-<summary><b>🟧 Software Engineer — Squad Inventive Integrated</b> &nbsp; <i>February 2020 – March 2021</i></summary>
+<summary><b>🟧 Backend Developer — HoBeei</b> &nbsp; <i>August 2021 – December 2022 · Remote</i></summary>
 <br/>
 
-*Platforms: MyANPA, iCOMAA, SquadAssist*
-
-- Developed and debugged cross-platform APIs across MERN and LAMP stacks, resolving defects spanning frontend, backend, and database layers
+- Developed APIs using Node.js, TypeScript, Express.js, and JWT
+- Designed MongoDB data models and database architecture; used MongoDB Compass for aggregations and queries
+- Hosted backend services on Heroku Cloud Platform
+- Integrated third-party plugins and APIs; used GitHub for version control
 </details>
 
 <details>
-<summary><b>🟥 Software Engineer — DGICT Technologies</b> &nbsp; <i>December 2018 – January 2020</i></summary>
+<summary><b>🟥 Software Engineer — BB3 Technologies</b> &nbsp; <i>November 2019 – August 2021 · Lagos, Nigeria (Remote)</i></summary>
 <br/>
 
-*Platforms: WealthSystem Cadence, QuizLead*
-
-- Built and maintained websites, mobile apps, and PWAs, troubleshooting client-reported bugs and iterating on fixes
+- Developed and implemented APIs for cross-platform web and mobile solutions
+- Designed UI/UX for websites and mobile apps; built and maintained an Android POS accounting application
+- Developed smart contracts with Solidity and cryptocurrency tokens (BSC & ETH networks)
+- Designed and developed NFTs (BSC, ETH, Solana) and Web3 DApps
+- Implemented JWT-based authentication/authorisation and managed AWS cloud infrastructure via CLI
 </details>
 
 <br/>
 
 ## 🎓 Education
 
-- **BSc, Computer Science** — National Open University of Nigeria
-- **Diploma, Computer Science** — Osun State College of Technology
+- **BTech, Computer Science** — National Open University of Nigeria (NOUN), 2017 – 2020
+- **Diploma, Computer Science** — Osun State College of Technology, 2013 – 2017
 
 <br/>
 
