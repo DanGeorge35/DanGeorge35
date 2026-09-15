@@ -17,7 +17,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+##  About Me
 
 Solutions Architect and Senior Software Engineer with **8+ years of experience** designing, building, and scaling production systems across backend, frontend, and distributed architectures. Strong grounding in algorithms, data structures, and software engineering fundamentals (**OOP, SOLID, ACID**), with a consistent track record of architecting cloud-native systems, resolving complex defects, and refactoring legacy codebases for clarity and long-term reliability.
 
@@ -27,7 +27,7 @@ I'm also the founder of **DGICT Technologies**, a tech agency in Abuja, Nigeria 
 
 <br/>
 
-## 🧰 Core Technical Skills
+## Core Technical Skills
 
 **Primary Languages**
 
@@ -87,7 +87,7 @@ I'm also the founder of **DGICT Technologies**, a tech agency in Abuja, Nigeria 
 
 <br/>
 
-## 💼 Professional Experience
+## Professional Experience
 
 <details open>
 <summary><b>🟦 Solutions Architect — Squad Inventive Integrated, LLC</b> &nbsp; <i>June 2026 – Present · Remote</i></summary>
@@ -152,14 +152,14 @@ I'm also the founder of **DGICT Technologies**, a tech agency in Abuja, Nigeria 
 
 <br/>
 
-## 🎓 Education
+## Education
 
 - **BTech, Computer Science** — National Open University of Nigeria (NOUN), 2017 – 2020
 - **Diploma, Computer Science** — Osun State College of Technology, 2013 – 2017
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 **React.js Projects**
 
