@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Dan%20George&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Solutions%20Architect%20%7C%20Senior%20Software%20Engineer%20%7C%20Cloud%20%26%20Distributed%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<br/>
+<br/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=8%2B+Years+Building+Production+Systems;Python+%7C+TypeScript+%7C+JavaScript+%7C+C%23;Solutions+Architecture+%E2%80%A2+Microservices+%E2%80%A2+AWS;Founder+%40+DGICT+Technologies)](https://git.io/typing-svg)
 
@@ -180,18 +182,6 @@ I'm also the founder of **DGICT Technologies**, a tech agency in Abuja, Nigeria 
 | MyANPA | [myanpa.com](https://myanpa.com/) |
 
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DanGeorge35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanGeorge35&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=DanGeorge35&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
 <br/>
 
 ## 🌐 Let's Connect
