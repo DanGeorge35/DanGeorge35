@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dan%20George&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=checkered&height=200&color=gradient&text=Input%20text&reversal=true&descAlign=51&descAlignY=49&text=Dan%20George&section=header" width="100%"/>
+
 
 <div align="center">
 
