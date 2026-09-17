@@ -170,29 +170,6 @@ Beyond implementation, I’m comfortable making architectural decisions, reviewi
 - **BTech, Computer Science** — National Open University of Nigeria (NOUN), 2017 – 2020
 - **Diploma, Computer Science** — Osun State College of Technology, 2013 – 2017
 
-<br/>
-
-## Featured Projects
-
-**React.js Projects**
-
-| Project | Link |
-|---|---|
-| Branding by Squad | [brandingbysquad.com](https://brandingbysquad.com/) |
-| WealthSystem | [wealthsystem.net](https://wealthsystem.net/) |
-| Cadence Pub | [cadencepub.com](https://cadencepub.com/) |
-| iCOMAA | [icomaa.ca](https://icomaa.ca/) |
-| QuizLead | [quizlead.netlify.app](https://quizlead.netlify.app/) |
-
-**WordPress Projects**
-
-| Project | Link |
-|---|---|
-| ILIT Consultant | [ilitconsultant.com](https://ilitconsultant.com/) |
-| ANPA SoCal | [anpasocal.org](http://anpasocal.org/) |
-| Squad Inventive | [squadinventive.com](https://squadinventive.com/) |
-| ICOMAA | [icomaa.org](https://icomaa.org/) |
-| MyANPA | [myanpa.com](https://myanpa.com/) |
 
 <br/>
 <br/>
