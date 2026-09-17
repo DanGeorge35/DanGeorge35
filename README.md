@@ -22,7 +22,7 @@
 
 ##  About Me
 
-Solutions Architect and Senior Software Engineer with **8+ years of experience** building scalable backend systems, APIs, payment platforms, data pipelines, and cloud-based applications.
+Solutions Architect and Senior Software Engineer with **8+ years of experience** building scalable software services and cloud-based applications.
 
 My core technology stack includes C#, .NET, ASP.NET Core, Node.js, and TypeScript, with extensive experience building backend applications using NestJS and Express.js. I am also proficient in Python (FastAPI) and have a strong foundation in AI engineering.
 
