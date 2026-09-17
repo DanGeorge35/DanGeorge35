@@ -5,7 +5,7 @@
 
 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=8%2B+Years+Building+Distributed+Systems;.NET+%7C+C%23+%7C+Python+%7C+TypeScript+%7C+JavaScript;Solutions+Architect+%E2%80%A2+Software+Engineer+%E2%80%A2+Cloud+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=2E9EF7&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer+%7C+Solutions+Architect;8%2B+Years+Building+Scalable+Distributed+Systems;C%23+%26+.NET+%7C+Node.js+%7C+Python+%7C+TypeScript;AWS+%7C+Microservices+%7C+Cloud-Native+Architecture;Turning+Complex+Problems+Into+Reliable+Solutions)](https://git.io/typing-svg)
 
 <a href="mailto:dangeorge35@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/dan-george-504108149/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
