@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=checkered&height=200&color=gradient&reversal=true&descAlign=51&descAlignY=49&text=Dan%20George&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=checkered&height=200&color=0&reversal=true&descAlign=26&descAlignY=0&fontColor=fff&textBg=true&animation=fadeIn&text=Dan%20George&section=header" width="100%"/>
 
 
 <div align="center">
