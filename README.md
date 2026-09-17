@@ -38,9 +38,6 @@ When it comes to the architecture itself, I've designed different kinds of archi
 And when it comes to event-driven systems, which are a key component of designing a microservice-based architecture. I've used different message brokers, from Service Bus to Kafka to SNS and SQS. 
 Beyond implementation, I’m comfortable making architectural decisions, reviewing code, supporting other engineers, and translating business requirements into reliable technical solutions. 
 
-
-I'm also the founder of **DGICT Technologies**, a tech agency in Abuja, Nigeria, delivering web, mobile, blockchain/Web3, and UI/UX solutions.
-
 <br/>
 
 ## Core Technical Skills
