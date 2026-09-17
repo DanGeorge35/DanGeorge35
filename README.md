@@ -24,7 +24,7 @@
 
 Solutions Architect and Senior Software Engineer with **8+ years of experience** building scalable software services and cloud-based applications.
 
-My core technology stack includes C#, .NET, ASP.NET Core, Node.js, and TypeScript, with extensive experience building backend applications using NestJS and Express.js. I am also proficient in Python (FastAPI) and have a strong foundation in AI engineering.
+My core technology stack includes C# .NET, .NET Core, Node.js, and TypeScript, with extensive experience building backend applications using NestJS and Express.js. I am also proficient in Python (FastAPI) and have a strong foundation in AI engineering.
 
 I have hands-on experience with PostgreSQL, MySQL, MongoDB, Redis, AWS, Docker, and distributed systems architecture. I prioritise software quality through automated testing, including enterprise-scale unit, integration, and end-to-end testing. My testing toolkit includes xUnit and NUnit for .NET applications, as well as Jest and Cypress for TypeScript and JavaScript systems.
 
