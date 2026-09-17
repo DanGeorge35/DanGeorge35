@@ -23,8 +23,7 @@
 ##  About Me
 
 Solutions Architect and Senior Software Engineer with **8+ years of experience** 
-
-I’m Dan George, a senior software engineer with over 8 years of experience building backend systems, APIs, payment platforms, data pipelines, and cloud-based applications.
+I'm a senior software engineer with over 8 years of experience building backend systems, APIs, payment platforms, data pipelines, and cloud-based applications.
 I've led multiple modernisation efforts and multiple integration efforts
 My stack is C# .NET .NET Core, Node.js and TypeScript on the back end, particularly NestJS and Express. I’ve also worked with Python, with a sound knowledge of AI Engineering. I have solid experience with PostgreSQL, MySQL, MongoDB, Redis, AWS, Docker, and distributed-system patterns.
 I'm also big on testing, and I have experience with enterprise unit-scale testing,  integration tests on the back end using xUnit and NUnit and on the front end using Jest and Cypress.
