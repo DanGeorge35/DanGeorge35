@@ -1,6 +1,12 @@
 
 <div align="center">
 
+<br/>
+
+<br/>
+
+<br/>
+
 
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=2E9EF7&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer+%7C+Solutions+Architect;8%2B+Years+Building+Scalable+Distributed+Systems;C%23+%26+.NET+%7C+Node.js+%7C+Python+%7C+TypeScript;AWS+%7C+Microservices+%7C+Cloud-Native+Architecture;Turning+Complex+Problems+Into+Reliable+Solutions)](https://git.io/typing-svg)
