@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=blue&reversal=true&descAlign=26&descAlignY=0&fontColor=fff&textBg=false&animation=fadeIn&text=Dan%20George&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=blue&reversal=true&descAlign=26&descAlignY=0&fontColor=fff&textBg=false&animation=fadeIn&text=Dan%20George&section=header" width="100%"/>
 
 
 <div align="center">
@@ -11,8 +11,6 @@
 <a href="https://www.linkedin.com/in/dan-george-504108149/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/DanGeorge35"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Location-Abuja%2C%20Nigeria-blueviolet?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-![Profile views](https://komarev.com/ghpvc/?username=DanGeorge35&color=2E9EF7&style=flat-square&label=Profile+Views)
 
 </div>
 
