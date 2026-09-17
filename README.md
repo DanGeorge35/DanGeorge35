@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=blue&reversal=true&descAlign=26&descAlignY=0&fontColor=fff&textBg=false&animation=fadeIn&text=Dan%20George&section=header" width="100%"/>
-
 
 <div align="center">
 
