@@ -25,11 +25,11 @@
 Solutions Architect and Senior Software Engineer with **8+ years of experience** building scalable backend systems, APIs, payment platforms, data pipelines, and cloud-based applications.
 
 My stack is C# .NET .NET Core, Node.js and TypeScript(NestJS and Express) on the back end. I'm an expert in Python, with a strong foundation in AI Engineering. I have solid experience with PostgreSQL, MySQL, MongoDB, Redis, AWS, Docker, and distributed-system patterns.
-I'm also big on testing, and I have experience with enterprise unit-scale testing,  integration tests on the back end using xUnit and NUnit and on the front end using Jest and Cypress.
+I'm also big on testing, and I have experience with enterprise unit-scale testing,  integration tests on C#.NET using xUnit and NUnit and on Typescript/Javascript using Jest and Cypress.
 
 I also have experience setting up and  configuring Static Application Security Testing,  making it run in the cloud or cicd pipelines using SonarCloud or Checkmarx to check for code smells and vulnerabilities.
 
-Aside from that, another thing that's really important when I build is monitoring and observability. In which, I used tools like CloudWatch, Datadog,  Grafana & Prometheus
+Aside from that, another thing that's really important when I build is monitoring and observability. In this, I used tools like CloudWatch, Datadog,  Grafana & Prometheus
 And in many of the projects I’ve implemented, I've worked on ensuring secure API design, idempotency, eventual consistency using the outbox pattern, background processing, monitoring, and careful failure recovery.
 
 When it comes to the architecture itself, I've designed different kinds of architecture, from monolith to microservice to independent services and service-oriented architecture,
