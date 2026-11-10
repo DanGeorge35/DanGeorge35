@@ -173,9 +173,9 @@ Beyond implementation, I’m comfortable making architectural decisions, reviewi
 <br/>
 <br/>
 
-## 🎬 Software Concepts, Explained — on YouTube
+## 🎬 Software Concepts, Explained on YouTube
 
-I explain the software engineering concepts nobody tells you about, in short animated videos on **[DanGeorgeWorld](https://www.youtube.com/@DanGeorgeWorld)**. Each one takes about a minute.
+I explain software engineering concepts using simple terms in short animated videos on **[DanGeorgeWorld](https://www.youtube.com/@DanGeorgeWorld)**. 
 
 <table>
   <tr>
