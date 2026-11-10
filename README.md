@@ -173,6 +173,33 @@ Beyond implementation, I’m comfortable making architectural decisions, reviewi
 <br/>
 <br/>
 
+## 🎬 Software Concepts, Explained — on YouTube
+
+I explain the software engineering concepts nobody tells you about, in short animated videos on **[DanGeorgeWorld](https://www.youtube.com/@DanGeorgeWorld)**. Each one takes about a minute.
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://www.youtube.com/shorts/HrQqyY9dR-w"><img src="https://i.ytimg.com/vi/HrQqyY9dR-w/hqdefault.jpg" width="100%" alt="Message Queues"/><br/><b>Message Queues</b></a><br/><sub>Why message queues prevent chaos in your apps</sub></td>
+    <td align="center" width="33%"><a href="https://www.youtube.com/shorts/YvMh6DAoU9c"><img src="https://i.ytimg.com/vi/YvMh6DAoU9c/hqdefault.jpg" width="100%" alt="Idempotency"/><br/><b>Idempotency</b></a><br/><sub>How idempotency keeps your payments safe</sub></td>
+    <td align="center" width="33%"><a href="https://www.youtube.com/shorts/8Dp_vRZbfjQ"><img src="https://i.ytimg.com/vi/8Dp_vRZbfjQ/hqdefault.jpg" width="100%" alt="Exponential Backoff"/><br/><b>Exponential Backoff</b></a><br/><sub>How backoff prevents outages and meltdowns</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="https://www.youtube.com/shorts/3Hc4eLNdcH4"><img src="https://i.ytimg.com/vi/3Hc4eLNdcH4/hqdefault.jpg" width="100%" alt="Retries"/><br/><b>Retries</b></a><br/><sub>Why retries save your app from random failures</sub></td>
+    <td align="center" width="33%"><a href="https://www.youtube.com/shorts/CAe_VogNh10"><img src="https://i.ytimg.com/vi/CAe_VogNh10/hqdefault.jpg" width="100%" alt="Timeouts"/><br/><b>Timeouts</b></a><br/><sub>Why timeouts save your app from disaster</sub></td>
+    <td align="center" width="33%"><a href="https://www.youtube.com/shorts/AChJcKrtBdo"><img src="https://i.ytimg.com/vi/AChJcKrtBdo/hqdefault.jpg" width="100%" alt="Circuit Breakers"/><br/><b>Circuit Breakers</b></a><br/><sub>How circuit breakers stop cascading failures</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://www.youtube.com/@DanGeorgeWorld/shorts"><img src="https://img.shields.io/badge/▶%20More%20Videos-Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="More videos on YouTube"/></a>
+  <a href="https://www.youtube.com/@DanGeorgeWorld?sub_confirmation=1"><img src="https://img.shields.io/badge/Subscribe-DanGeorgeWorld-282828?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Subscribe"/></a>
+</p>
+
+<p align="center"><sub>Also on the channel: Service Discovery · Kubernetes · Docker · CI/CD · API Gateways · Reverse Proxies · Load Balancing · Caching · Rate Limiting — and a new concept every day.</sub></p>
+
+<br/>
+<br/>
+
 ## 🌐 Let's Connect
 
 Feel free to explore my repositories or reach out on [LinkedIn](https://www.linkedin.com/in/dan-george-504108149/) for collaboration opportunities. Thanks for stopping by — let's build something great together!
